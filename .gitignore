@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# File hasil compile Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Pengaturan editor (VSCode, PyCharm, dll)
+.vscode/
+.idea/
+
+# File sistem Windows & Mac
+Thumbs.db
+.DS_Store
